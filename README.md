@@ -48,13 +48,13 @@ Upload `esp8266_blynk.ino` to the ESP8266:
 ├── Stellarium_Fetch/            # Python script for Stellarium data extraction
 │   ├── stellarium_Fetch.py
 │   ├── README.md
-├── ESPTracker/             # ESP8266 Blynk integration
+├── ESPTracker/                  # ESP8266 Blynk integration
 │   ├── ESPTracker.ino
 │   ├── README.md
-├── Alt_Az_Conversion/            # C code for calculations (learning purposes)
+├── Alt_Az_Conversion/           # C code for calculations (learning purposes)
 │   ├── Alt_Az_Conversion.c
 │   ├── README.md
-└── README.md                 # Project overview
+└── README.md                    # Project overview
 ```
 
 ## Acknowledgments
