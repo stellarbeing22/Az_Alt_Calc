@@ -45,14 +45,14 @@ Upload `esp8266_blynk.ino` to the ESP8266:
 ## File Structure
 ```
 .
-├── python_script/            # Python script for Stellarium data extraction
-│   ├── stellarium_tracker.py
+├── Stellarium_Fetch/            # Python script for Stellarium data extraction
+│   ├── stellarium_Fetch.py
 │   ├── README.md
-├── esp8266_code/             # ESP8266 Blynk integration
-│   ├── esp8266_blynk.ino
+├── ESPTracker/             # ESP8266 Blynk integration
+│   ├── ESPTracker.ino
 │   ├── README.md
-├── learning_code/            # C code for calculations (learning purposes)
-│   ├── conversion_calculations.c
+├── Alt_Az_Conversion/            # C code for calculations (learning purposes)
+│   ├── Alt_Az_Conversion.c
 │   ├── README.md
 └── README.md                 # Project overview
 ```
